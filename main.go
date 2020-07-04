@@ -1,6 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/gerins/Hello_World/cetak"
+)
 
 func main() {
 	fmt.Println("hello world")
@@ -12,5 +16,4 @@ func main() {
 	fmt.Println("development 6")
 	fmt.Println("development 7")
 	cetak.CetakSepuluhKali("Apin")
-
 }
