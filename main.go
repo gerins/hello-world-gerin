@@ -11,4 +11,6 @@ func main() {
 	fmt.Println("development 5")
 	fmt.Println("development 6")
 	fmt.Println("development 7")
+	cetak.CetakSepuluhKali("Apin")
+
 }
